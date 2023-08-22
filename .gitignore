@@ -1,0 +1,4 @@
+build
+sui.log.*
+*.txt
+Move.lock
